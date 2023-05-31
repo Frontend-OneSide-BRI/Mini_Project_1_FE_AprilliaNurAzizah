@@ -1,0 +1,190 @@
+body {
+  background-color: white;
+}
+
+.carousel-item h1 {
+  margin: 0;
+  color: white;
+}
+
+img.card-img {
+  border-radius: 0px !important;
+}
+
+a.card-link {
+  text-decoration: none;
+  color: black;
+}
+
+li.list-group-item {
+  padding: 6px;
+  text-align: left;
+}
+
+.card {
+  border: none;
+}
+
+a#sybol {
+  font-size: 40px;
+  display: flex;
+  justify-content: right;
+}
+
+h5.card-title {
+  margin: 0;
+  text-align: left;
+}
+
+.card.al {
+  background-color: white;
+}
+
+li.list-group-item {
+  background-color: white;
+}
+
+p.fw-bold {
+  margin: 0;
+  font-size: 25px;
+}
+
+.container-fluid.text-center {
+  background-color: #f0edda;
+}
+
+#direct-symbol {
+  height: 10vh;
+  max-height: 50px;
+}
+
+hr.my-3 {
+  background-color: black;
+  border: none;
+  height: 3px;
+  font-weight: bold;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+}
+
+.footer .logo {
+  height: 50px;
+}
+
+.footer .logo img {
+  height: 100%;
+}
+
+.footer .copyright {
+  font-size: 14px;
+}
+
+.footer .social-icons .btn {
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 50%;
+}
+
+i.fab.fa-instagram {
+  display: flex;
+  margin-top: 6px;
+}
+
+i.fab.fa-twitter {
+  display: flex;
+  margin-top: 6px;
+}
+
+i.fab.fa-facebook-f {
+  display: flex;
+  margin-top: 5px;
+}
+
+i.fab.fa-google {
+  display: flex;
+  margin-top: 5px;
+}
+
+.card-img-col:hover {
+  transform: scale(1.1);
+}
+
+.col.gal-img {
+  display: flex;
+  justify-content: center;
+}
+
+section.Collection {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+h1.title-collect {
+  font-size: 25px;
+  padding-left: 5%;
+  padding-top: 2%;
+}
+
+section.search {
+  background-image: url("https://sothebys-com.brightspotcdn.com/dims4/default/6927ee1/2147483647/strip/true/crop/2766x634+0+1138/resize/1440x330!/format/webp/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fdotcom%2F35%2F79%2Ffff03a1d4b00bef7e4fe7acd1d45%2Fhisotory-of-omp-copies-4.jpg");
+}
+
+body {
+  background-color: white;
+  overflow-x: hidden;
+}
+
+.form {
+  position: relative;
+}
+
+.form .fa-search {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  color: #9ca3af;
+}
+
+.form-input {
+  height: 50px;
+  text-indent: 33px;
+  border-radius: 10px;
+}
+
+.form-input:focus {
+  box-shadow: none;
+  border: none;
+}
+
+.category {
+  padding: 20px 0;
+}
+
+.category .nav-link {
+  color: #333;
+  font-weight: bold;
+  font-size: 14px;
+  padding: 8px 15px;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+}
+
+.category .nav-link.active,
+.category .nav-link:hover {
+  background-color: #ab9a88;
+  color: #ebeacf;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+img.card-img-col {
+  height: 30vh;
+  width: 100%;
+}
